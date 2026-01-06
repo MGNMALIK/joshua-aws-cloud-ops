@@ -41,5 +41,4 @@ Stop using the AWS root user for daily work. Use an IAM admin user for normal op
 
 ## Proof
 
-![IAM dashboard proof]("C:\Users\Joshua\OneDrive\Documents\GitHub\joshua-aws-cloud-ops\03-aws-notes\screenshots\day2-hour3\day2-hour3-02-iam-dashboard-alias.png")
-
+![IAM dashboard proof](C:\Users\Joshua\OneDrive\Documents\GitHub\joshua-aws-cloud-ops\03-aws-notes\screenshots\day2-hour3\day2-hour3-02-iam-dashboard-alias.png)
